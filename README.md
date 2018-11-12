@@ -60,7 +60,7 @@ Here we list the minimum functionality that your clients must implement:
 
 We provide you with a very simple Graphical User Interface (GUI) for Yo clients. The GUI looks as follows.
 
-![GUI](images/yo-interface.svg)
+![GUI](images/yo-interface.png)
 
 The interface provides a user-friendly way to register and send Yo messages.
 You can extend this file and add any other Java files (e.g., server or
