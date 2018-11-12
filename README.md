@@ -96,7 +96,7 @@ In order to play the Yo sound we provide you with the function `playYo()`. This 
 
 ### Running the code
 
-You can run the code of the skeleton by simply using `javac` and `java` commands.
+You can run the code of the skeleton by simply using the commands `javac` and `java`.
 
 ```bash
 $ javac Yo.java
